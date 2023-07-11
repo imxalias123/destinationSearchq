@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.img-card-container{
+    list-style-type:none; 
+    
+}
+.img{
+    width:200px;
+}
+.img-name{
+    font-family:"roboto";
+    font-weight:bold;
+}
+
